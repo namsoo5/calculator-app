@@ -1,12 +1,12 @@
 # calculator-app
 simple calculator to perform basic mathematical operations.
 
-<ol>
+<ul>
     <li>Performs simple arithmetic calculation</li>
     <li>Light weight in size</li>
     <li>Comprehensive Code</li>
     <li>Good userinterface</li>
-</ol>
+</ul>
 
 HOW TO CONTRIBUTE
 
